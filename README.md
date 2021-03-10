@@ -8,7 +8,7 @@ After owning and running my own small business, I saw a need to create something
 
 👉 Watch it <a href="https://www.youtube.com/watch?v=cUdRhZERVq0">here!</a>
 
-<img src="app/assets/images/MPloy_Screenshot.png">
+<img src="app/assets/images/MPloy_Screenshot.png" width="638">
 
 <img src="https://j.gifs.com/xnQxMJ.gif">
 
@@ -45,7 +45,7 @@ Before you begin, ensure you have done the following:
 
 ✅ Growth Opportunities
 
-# Models & Relationships
+# <h3>Models & Relationships</h3>
 
 - Employee has_many :requests
 - Employee has_one :manager, through: :requests
@@ -68,7 +68,7 @@ Before you begin, ensure you have done the following:
 
 # User Stories
 
-<h3>MVP<h3>
+<h3>MVP</h3>
 
 - Employee can log in
 - Employee can make requests
@@ -81,7 +81,7 @@ Before you begin, ensure you have done the following:
 
 - Reasons will be specific w/ Employees being able to expand upon
 
-<h3>Stretch Goals<h3>
+<h3>Stretch Goals</h3>
 
 - Implement Data Visualization for EmployeeProfile
 - Implement Schedule API
@@ -91,6 +91,7 @@ Before you begin, ensure you have done the following:
 
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="rails_badge">
 <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="sass_badge">
+<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap_badge">
 <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="sqlite_badge">
 
 # Contributing to MPloy!
