@@ -6,7 +6,7 @@ After owning and running my own small business, I saw a need to create something
 
 # Demo
 
-👉 Watch it <a href="https://www.youtube.com/watch?v=cUdRhZERVq0">here!</a>
+👉 Watch it <a href="https://youtu.be/mZk1DMNwQy4">here!</a>
 
 <img src="app/assets/images/MPloy_Screenshot.png" width="638">
 
